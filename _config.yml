@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Site settings
 title: ステラ/HexMyria
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "AIイラストクリエイターのポートフォリオ。美しい二次元少女の作品集と、生成プロンプト、支援サイトへのリンクを公開しています。"
 
 # Team names, titles and social links
 people:
